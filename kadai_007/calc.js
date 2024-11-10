@@ -1,6 +1,6 @@
 
 // 変数numに1以上の正の数を代入して、プログラム内で使用。
-let num = 15;
+let num = 2;
 
 // 変数numの値を出力する（確認用）
 console.log(num);
@@ -22,5 +22,5 @@ else if (num % 5 === 0) {
 
 // それ以外のときは、変数numを出力する
 else {
-  console.log('num');
+  console.log(num);
 }
